@@ -1,6 +1,6 @@
 # API de Gestão de Pedidos com FastAPI
 
-Projeto desenvolvido durante meus estudos práticos de desenvolvimento back-end com Python, acompanhando aulas guiadas para consolidar a construção de APIs RESTful, autenticação de usuários e integração com banco de dados relacional.
+Projeto desenvolvido durante meus estudos práticos de desenvolvimento back-end com Python, acompanhando aulas guiadas para consolidar a construção de APIs REST, autenticação de usuários e integração com banco de dados relacional.
 
 ## 🎯 Objetivos de Aprendizado
 Durante a implementação deste projeto, pude praticar e compreender na prática:
